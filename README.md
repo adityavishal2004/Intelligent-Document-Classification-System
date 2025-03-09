@@ -13,3 +13,9 @@ This project is designed to classify documents or images into "Spam" and "Non-Sp
    ```bash
    git clone https://github.com/your-username/document-classification.git
    cd document-classification
+2.Install required dependencies:
+  ---bash
+  pip install -r requirements.txt
+3.Run the Jupyter Notebook or script:
+  ---bash
+  jupyter notebook project.ipynb
